@@ -12,7 +12,7 @@ class FizzBuzz {
             extracted(i);
         }
     }
-
+// some comment
     private static void extracted(int i) {
         // Find out which numbers divide i.
         boolean divisibleBy3 = i % 3 == 0;
